@@ -12,5 +12,5 @@
 -> step 2. Add the dependency
 
 ``` 
-implementation 'com.github.saurav12bisht:Whatsapp-Auth:1.0.0 
+implementation 'com.github.saurav12bisht:Whatsapp-Auth:1.0.0'
 ```
